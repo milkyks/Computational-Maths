@@ -22,5 +22,5 @@ double calculateLagrangePolynom(double x, double nodes[], double values[])
     polynom = 1;
   }
 
- return sum_of_polynoms;
+  return sum_of_polynoms;
 }

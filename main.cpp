@@ -7,7 +7,7 @@
 
 double function(double x) 
 {
-    return sin(x * x);
+  return sin(x * x);
 }
 
 int main()
