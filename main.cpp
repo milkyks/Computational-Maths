@@ -13,8 +13,8 @@ double function(double x)
 int main()
 {
   double nodes[7] = {};
-
   double node = 1.5;
+
   for (int i = 0; i < 7; i++)
   {
     nodes[i] = node;
@@ -30,8 +30,8 @@ int main()
   double errest;
   int nofun;
   double flag;
-
   double result;
+
   for (int i = 0; i < 7; i++) // подсчет интеграла с пределами интегрирования от 0 до 1.5, 1.7 и т.д.
   {
     b = nodes[i];
@@ -40,6 +40,7 @@ int main()
   }
 
   std::cout << "Values of integral at first: " << "\n";
+
   for (int i = 0; i < 7; i++)
   {
     std::cout << values[i] << "\n";
@@ -48,7 +49,6 @@ int main()
   std::cout << "_______________________________________________________________\n";
 
   double x_1[7] = {};  // массив точек, в которых нужно считать функцию, полином Лагранжа и сплайн-функцию
-
   node = 1.6;
 
   for (int i = 0; i < 7; i++)
@@ -78,6 +78,7 @@ int main()
 
   a = 0.0;
   b = 1.6;
+  
   for (int i = 0; i < 7; i++)
   {
     quanc8(function, a, b, abserr, relerr, &result, &errest, &nofun, &flag);
