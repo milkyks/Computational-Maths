@@ -1,4 +1,4 @@
-# Вычислительная математика [![Build Status](https://travis-ci.com/vaddya/computational-math.svg?token=pjDpbjDkzyYVhqcfMzbZ&branch=master)](https://travis-ci.com/vaddya/computational-math)
+# Вычислительная математика
 
 1. __Использование стандартных подпрограмм для приближенного вычисления интеграла:__ 
 [С++](https://github.com/milkyks/Computational-Maths/tree/master/lab%201/code) ·
