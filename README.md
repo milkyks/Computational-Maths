@@ -2,7 +2,7 @@
 
 1. __Использование стандартных подпрограмм для приближенного вычисления интеграла:__ 
 [С++](https://github.com/milkyks/Computational-Maths/tree/master/lab%201/code) ·
-[Отчет]https://github.com/milkyks/Computational-Maths/blob/master/lab%201/report/lab_1_otchet.pdf)
+[Отчет](https://github.com/milkyks/Computational-Maths/blob/master/lab%201/report/lab_1_otchet.pdf)
 2. __Использование стандартных подпрограмм для вычисления обратной матрицы и нормы матрицы:__
 [С++](https://github.com/milkyks/Computational-Maths/tree/master/lab%202/code) ·
 [Отчет](https://github.com/milkyks/Computational-Maths/blob/master/lab%202/report/lab_2_otchet.pdf)
