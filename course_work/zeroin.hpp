@@ -1,0 +1,8 @@
+#ifndef ZEROIN_HPP
+#define ZEROIN_HPP
+
+#include "FORSYTHE.H"
+
+REAL ZEROIN(REAL AX,REAL BX,REAL (F)(REAL X),REAL TOL);
+
+#endif
